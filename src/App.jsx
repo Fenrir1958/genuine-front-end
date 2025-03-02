@@ -2,7 +2,6 @@ import "./App.css";
 import { Navbar } from "./Components/Navbar";
 import { MainLayout } from "./Components/MainLayout";
 
-
 function App() {
   return (
     <MainLayout>
